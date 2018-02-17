@@ -8,4 +8,4 @@ We have lots of cool things on this website.
 
  Please vote on the poll of the Democrat or Republicans.
  
- https://docs.google.com/forms/d/1tKiRaRqSjLYEKFGazOQ1R-ZF4P16ScNHdl9ixmmqpjQ/prefill
+
