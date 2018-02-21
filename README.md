@@ -10,5 +10,5 @@ We have lots of cool things on this website.
  
 https://goo.gl/forms/lDg5oEihZaFW2z2u2
 
-[Micheal Jackson][https://www.youtube.com/watch?v=ova_qsOGRG4ef]
+
 
