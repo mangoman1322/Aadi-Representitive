@@ -7,6 +7,6 @@
 <h1>Aadi "______" Kalra</h1>
 <p>I am Aadi Kalra and I am from ******* and go to ****** school. I am ** years old.<br>
  Sorry<br>
- STRANGER DANGER!
+ <strong>STRANGER DANGER!</strong>
  </p>
  
