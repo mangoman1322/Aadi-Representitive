@@ -20,5 +20,5 @@
  <p> If you are looking at this website, you might be like "This is the worst website ever!!" Well not any more because soon there will be a tab for GAME LINKS!!!!!! This message will be removed once I figure out how to add a seperate tab on the site. :-)</p>
  
  <h4>Status Update 11-27-18<br>
- Still working on it. Doing a course on Khan Adamey and will be added soon!</h4>
+ Still working on it. Doing a course on Khan Academy and will be added soon!</h4>
  
