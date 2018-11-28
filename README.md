@@ -19,7 +19,7 @@
  </p>
  <p> If you are looking at this website, you might be like "This is the worst website ever!!" Well not any more because soon there will be a tab for GAME LINKS!!!!!! This message will be removed once I figure out how to add a seperate tab on the site. :-)</p>
  
- <img src="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjo9YvT6vXeAhXBoIMKHR4OD6kQjRx6BAgBEAU&url=https%3A%2F%2Fwww.smithsonianmag.com%2Fhistory%2Fchildren-80s-never-fear-video-games-did-not-ruin-your-life-180963452%2F&psig=AOvVaw0OnCpYAA2Qq9zrbFBm6gdi&ust=1543451385200235" alt= Video Game Picture width="500">
+ <img src="https://thumbs-prod.si-cdn.com/_alcB9ytiQtXKLIIoGtyWzSp72Y=/800x600/filters:no_upscale()/https://public-media.smithsonianmag.com/filer/75/6b/756b7562-10fc-4a9c-a2ac-0dba0c77946d/istock-157739391.jpg" alt= Video Game Picture width="500">
  
  <h4>Status Update 11-27-18<br>
  Still working on it. Doing a course on Khan Academy and will be added soon!</h4>
