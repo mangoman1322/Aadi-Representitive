@@ -22,5 +22,5 @@
  <img src="https://thumbs-prod.si-cdn.com/_alcB9ytiQtXKLIIoGtyWzSp72Y=/800x600/filters:no_upscale()/https://public-media.smithsonianmag.com/filer/75/6b/756b7562-10fc-4a9c-a2ac-0dba0c77946d/istock-157739391.jpg" alt="Video Game Picture" width="500" length="500">
  
  <h4>Status Update 11-27-18<br>
- Still working on it. Doing a course on Khan Academy and will be added soon!</h4>
+ I am thinking about switching from GitHub to another host. If you know me please give me ome reccomendations. There is one person in particular I need to ask. </h4>
  
